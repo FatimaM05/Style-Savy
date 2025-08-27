@@ -18,6 +18,9 @@ This project manages **Customers, Employees, and Services**, with full **CRUD op
 ## 🎥 Demo Video  
 Watch the full project demo here:  
 [▶ View on Google Drive](https://drive.google.com/file/d/1e-odTujIOW0sAqer57BGoqycbx1Ufi21/view?usp=sharing)
+> **Note:** Female faces have been intentionally hidden in the video for modesty reasons.  
+> Only relevant salon operations and workflows are shown.
+
 
 
 ---
